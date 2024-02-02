@@ -1,0 +1,19 @@
+{
+    "I2C_Rate": 0.010,
+    "C2I_Rate": 81.98,
+    "LTC": "ENTER",
+    "BTC": "ENTER",
+    "ETH": "ENTER",
+    "UPI": "ENTER",
+    "UPI_QR": "ENTER",
+    "BTC_QR": "ENTER",
+    "LTC_QR": "ENTER",
+    "ETH_QR": "ENTER",
+    "PayPal": "ENTER",
+    "Twitch_URL": "https://twitch.tv/wallibear",
+    "Auto_Response": "JAAN KAAM KAR RA",
+    "SERVER_LINK": "https://discord.gg/KVcxQEedSD",
+    "CATEGORY_RESPOND_MSG": "WORKSPACE... TESTING `ANIKET OP`",
+    "category_ids": [1146086092878139401],
+    "server_ids": [1146086086121111603]
+}
